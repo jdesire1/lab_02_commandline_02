@@ -48,7 +48,7 @@ cd Desktop
 ==========
 7. If you're in your home directory, what's the relative path to your Desktop directory?
 ----------
-../Desktop
+/Desktop
 
 ==========
 8. If you're in your home directory, how would you create a new directory on your desktop called stuff without changing your directory?  Write your command below.
@@ -100,3 +100,11 @@ e. Determine which folder in my-stuff was created most recently by using ls.  (t
 f. Remove that folder.
 g. Show all of the commands that you used to complete the above exercise.  (for example, how did you determine which folder in my-stuff was the most recent?).  Use the command: history ... to help you remember what you did!  Paste the commands below.
 ----------
+ cd my-stuff
+ mkdir my-stuff
+ mkdir archived
+ mkdir current
+ hostname
+ mkdir ent-v314-007
+ ls -t
+ rmdir ent-v314-007
