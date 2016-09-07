@@ -151,6 +151,7 @@ curl -o mtec1002-lab-02.zip http://foureyes.github.io/mtec1002-spring2014/labs/0
  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  935k  100  935k    0     0   984k      0 --:--:-- --:--:-- --:--:--  983k
+
 ent-v314-007:~ student$ ls
 Applications		Movies			Sites			mtec1003
 Desktop			Music			Things			vms
